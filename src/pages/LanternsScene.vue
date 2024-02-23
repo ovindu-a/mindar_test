@@ -30,7 +30,7 @@ export default {
     const commonPositionY = -0.5;
     return {
       mindarImage:{
-        targetSrc: "./targets/lanterns_target.mind",
+        targetSrc: "./targets/target.mind",
         filterMinCF: 0.00001,
         filterBeta: 0.001
       },
